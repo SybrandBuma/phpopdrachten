@@ -35,8 +35,15 @@
         .$text6.", <br>de hoofdstad van ".$text7.
         ", is start- en aankomstplaats. De <br>".$text1.
         " is inmiddels ".$text8. " maal verreden en werd voor het <br> eerst in "
-        .$text9." gereden en wordt maximaal ".$text10." keer per winter <br> gehouden";
+        .$text9." gereden en wordt maximaal ".$text10." keer per winter <br> gehouden. <br>";
     echo $verhaal;
+    $verhaal2 =  "De $text1 (Fries: $text2) is een $text11<br>
+        kilometer lange $text3 over $text4 die wordt<br>
+        georganiseerd door de $text5. $text6, de hoofdstad van $text7, is start- en<br>
+        aankomstplaats. De $text1 is inmiddels $text8 maal<br>
+        verreden en werd voor het eerst in $text9 gereden en wordt<br>
+        maximaal $text10 keer per winter gehouden.<br>";
+    echo $verhaal2;
     ?>
 </main>
 <a href="../../index.php">terug</a>
