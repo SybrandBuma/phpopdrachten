@@ -5,9 +5,17 @@
  * Date: 2/24/2018
  * Time: 10:08 PM
  */
-echo "<div id='footer'>
-        <span>copyright Sybrand 2020</span> | <a href='../../index.php'>Terug</a>
-    </div>";
+?>
+<?php
+    $year = date('Y');
+    echo $year;
+?>
+
+<?php
+    $name = "Sybrand Baltussen";
+    echo $name;
+?>
+<?php echo "<a href='../../index.php'> Terug </a>"?>
 ?>
 
 

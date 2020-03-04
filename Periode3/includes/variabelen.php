@@ -8,15 +8,6 @@
  */
 ?>
 
-<?php
-    $year = date('Y');
-    echo $year;
-?>
 
-<?php
-    $name = "Sybrand Baltussen";
-    echo $name;
-?>
-<?php echo "<a href='../../index.php'> Terug </a>"?>
 
 

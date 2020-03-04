@@ -5,6 +5,7 @@
  * Date: 2/20/2020
  * Time: 10:52 AM
  */
+include '../../includes/variabelen.php'
 ?>
 
 <!DOCTYPE html>
@@ -22,7 +23,7 @@
         ?>
 </div>
 <div id='footer'>
-<?php include '../../includes/variabelen.php'?>
+<?php include '../../includes/footer.php'?>
 </div>
 </body>
 </html>
