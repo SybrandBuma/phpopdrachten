@@ -42,6 +42,19 @@
                 </li>
             </ul>
         </li>
+        <li>Hoofdstuk 4
+            <ul>
+                <li>
+                    <a href="Hoofdstuk04/4.1/Opdracht41.php">Opdracht 3.1</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk04/4.2/Opdracht42.php">Opdracht 3.2</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk04/4.3/Opdracht43.php">Opdracht 3.3</a>
+                </li>
+            </ul>
+        </li>
     </ul>
 </aside>
 <main id="wrapper">
