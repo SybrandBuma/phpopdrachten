@@ -33,7 +33,7 @@ while ($row = $result->fetch(PDO::FETCH_ASSOC))
     // Result wegschrijven in de $aJokes array
     $aJokes[] = $row;
 }
-// Tonen van de inhoud van aJokes
+// Tonen van de inhoud van aJoke
 var_dump($aJokes);
 ?>
 
